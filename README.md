@@ -2,6 +2,11 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/hanwckf/rt-n56u/total)
 [![release](https://img.shields.io/github/release/hanwckf/rt-n56u.svg)](https://github.com/hanwckf/rt-n56u/releases)
 
+# PADAVAN LEAN VERSION #
+
+For Mi-R4A, Mi-R4, Mi-R3C, R2100 based on older version from 12/2020
+
+
 # README #
 
 Welcome to the rt-n56u project
